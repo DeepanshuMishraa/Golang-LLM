@@ -97,5 +97,5 @@ func main() {
 	}
 
 	// Print the extracted text
-	fmt.Println("Response:", text)
+	fmt.Println("Response from AI:", text)
 }
